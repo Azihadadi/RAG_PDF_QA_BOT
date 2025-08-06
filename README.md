@@ -31,6 +31,7 @@ This project is a document-based QA bot web application that allows users to upl
    pip install -r requirements.txt
 3. Run the app:
    ```bash
+   python app/qabot.py
 
 ✅ App runs on: http://127.0.0.1:7860
 
