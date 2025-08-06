@@ -37,6 +37,8 @@ This project is a document-based QA bot web application that allows users to upl
 
 📷 Screenshot
 
+![Screenshot](assets/QA_bot.jpg)
+
 📚 Example Query
 
     Uploaded File: A Comprehensive Review of Low-Rank Adaptation in LLMs
