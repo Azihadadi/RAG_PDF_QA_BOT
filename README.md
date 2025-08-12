@@ -2,7 +2,7 @@
 
 This project is a document-based QA bot web application that allows users to upload PDF documents and ask questions about their content. It uses IBM Watsonx LLM and Embeddings in a LangChain-based Retrieval-Augmented Generation (RAG) pipeline.
 
-## 🚀 Features
+## Features
 
 - 📄 Upload and parse PDF documents
 - 🤖 Ask natural language questions
@@ -11,7 +11,7 @@ This project is a document-based QA bot web application that allows users to upl
 - 🎯 Retrieval-based question answering (RAG)
 - 🌐 Simple, clean UI with Gradio
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - [LangChain](https://www.langchain.com/)
@@ -19,7 +19,7 @@ This project is a document-based QA bot web application that allows users to upl
 - Chroma (vector DB)
 - Gradio
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 1. Clone the repo:
    ```bash
@@ -50,7 +50,7 @@ This project is a document-based QA bot web application that allows users to upl
 This project was completed as part of the IBM AI Engineering specialization. It demonstrates hands-on implementation of document-based QA using retrieval-augmented generation and LLMs.
 
 
-## 📬 Contact
+## Contact
 
 Feel free to connect if you're interested in this project or want to collaborate:
 
