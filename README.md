@@ -1,5 +1,6 @@
 # Question-Answering Bot Using LangChain, IBM Watsonx, and Gradio
 
+## Overview
 This project is a document-based QA bot web application that allows users to upload PDF documents and ask questions about their content. It uses IBM Watsonx LLM and Embeddings in a LangChain-based Retrieval-Augmented Generation (RAG) pipeline.
 
 ## Features
