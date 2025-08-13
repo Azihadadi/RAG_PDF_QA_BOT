@@ -24,7 +24,7 @@ This project is a document-based QA bot web application that allows users to upl
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Azihadadi/RAG_PDF_QA_BOT.git
+   git clone https://github.com/Azihadadi/RAG-PDF-QA-BOT.git
    cd qa-bot
 
 2. Install dependencies:
